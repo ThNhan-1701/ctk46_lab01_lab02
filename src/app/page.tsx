@@ -13,13 +13,13 @@ export default function HomePage() {
  </div>
  <h1 className="text-4xl md:text-5xl font-bold mb-4">
  Xin chào! Tôi là{" "}
- <span className="text-emerald-600 dark:text-emerald-400">Nguyễn Hoàng Kiệt</span>
+ <span className="text-emerald-600 dark:text-emerald-400">Nguyễn Thành Nhân</span>
  </h1>
  <p className="text-xl text-gray-600 dark:text-gray-300 mb-2 max-w-2xl mx-auto">
  Sinh viên năm 4 ngành Công nghệ Thông tin tại Đại học Đà Lạt.
  </p>
  <p className="text-base text-gray-500 dark:text-gray-400 mb-8 max-w-2xl mx-auto">
- Lớp CTK46 | MSSV 2212398 | Định hướng Full-stack Web và AI ứng dụng.
+ Lớp CTK46 | MSSV 2212430 | Định hướng Full-stack Web và AI ứng dụng.
  </p>
  <div className="flex flex-wrap justify-center gap-4">
  <Link

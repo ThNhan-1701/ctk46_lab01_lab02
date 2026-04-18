@@ -7,16 +7,16 @@
  <p>
  <strong>Email:</strong>{" "}
  <a
- href="mailto:nguyenhoangkiet@sv.dlu.edu.vn"
+ href="mailto:nguyenthanhnhan@sv.dlu.edu.vn"
  className="text-emerald-600 dark:text-emerald-400 hover:underline"
  >
- nguyenhoangkiet@sv.dlu.edu.vn
+ nguyenthanhnhan@sv.dlu.edu.vn
  </a>
     </p>
     <p>
  <strong>GitHub:</strong>{" "}
  <a
- href="https://github.com/2212398"
+ href="https://github.com/ThNhan-1701"
  target="_blank"
  rel="noopener noreferrer"
  className="text-emerald-600 dark:text-emerald-400 hover:underline"

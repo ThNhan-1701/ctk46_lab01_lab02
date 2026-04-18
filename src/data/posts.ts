@@ -24,7 +24,7 @@ export const posts: Post[] = [
  - Hỗ trợ TypeScript sẵn có`,
  date: "2025-01-15",
  category: "Công nghệ",
- author: "Nguyễn Hoàng Kiệt",
+ author: "Nguyễn Thành Nhân ",
  },
  {
  slug: "hoc-tailwind-css",
@@ -45,7 +45,7 @@ rgba(0,0,0,0.1); }
  - File CSS cuối cùng rất nhỏ (chỉ chứa class đã dùng)`,
  date: "2025-01-20",
  category: "Công nghệ",
- author: "Nguyễn Hoàng Kiệt",
+ author: "Nguyễn Thành Nhân ",
  },
  {
  slug: "kinh-nghiem-hoc-lap-trinh",
@@ -64,7 +64,7 @@ rgba(0,0,0,0.1); }
  Tham gia các cộng đồng lập trình để học hỏi và chia sẻ kinh nghiệm.`,
  date: "2025-02-01",
  category: "Học tập",
- author: "Nguyễn Hoàng Kiệt",
+ author: "Nguyễn Thành Nhân ",
  },
  {
  slug: "xay-dung-api-fastapi",
@@ -83,7 +83,7 @@ rgba(0,0,0,0.1); }
  - Viết tài liệu API bằng OpenAPI/Swagger ngay từ đầu`,
  date: "2025-02-12",
  category: "Công nghệ",
- author: "Nguyễn Hoàng Kiệt",
+ author: "Nguyễn Thành Nhân ",
  },
  {
  slug: "nhat-ky-lam-do-an-ml",
@@ -100,7 +100,7 @@ rgba(0,0,0,0.1); }
  Mục tiêu tiếp theo là cải thiện tốc độ suy luận để triển khai realtime tốt hơn.`,
  date: "2025-02-25",
  category: "Dự án cá nhân",
- author: "Nguyễn Hoàng Kiệt",
+ author: "Nguyễn Thành Nhân ",
  },
 ];
 export function getPostBySlug(slug: string): Post | undefined {

@@ -4,15 +4,15 @@ export default function AboutPage() {
  <h1 className="text-3xl font-bold mb-6">Giới thiệu</h1>
  <div className="space-y-4 text-gray-700 dark:text-gray-200">
  <p>
- Xin chào! Tôi là <strong>Nguyễn Hoàng Kiệt</strong>, sinh viên năm 4
+ Xin chào! Tôi là <strong>Nguyễn Thành Nhân</strong>, sinh viên năm 4
  ngành Công nghệ Thông tin tại Đại học Đà Lạt.
  </p>
  <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-4 space-y-2">
  <p>
- <strong>Họ và tên:</strong> Nguyễn Hoàng Kiệt
+ <strong>Họ và tên:</strong> Nguyễn Thành Nhân
  </p>
  <p>
- <strong>Mã số sinh viên:</strong> 2212398
+ <strong>Mã số sinh viên:</strong> 2212430
  </p>
  <p>
  <strong>Lớp:</strong> CTK46
