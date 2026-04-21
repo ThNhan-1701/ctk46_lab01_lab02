@@ -1,4 +1,4 @@
-# CTK46 - Bài Thực Hành 1
+# CTK46 - Bài Thực Hành 
 
 > Môn: Các công nghệ mới trong phát triển phần mềm  
 > Sinh viên: **Nguyễn Thành Nhân** — MSSV: **2212430**  
